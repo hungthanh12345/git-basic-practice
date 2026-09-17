@@ -1,0 +1,2 @@
+﻿This is a notes file for personal reminders.
+Note 1: Completed git basics.
